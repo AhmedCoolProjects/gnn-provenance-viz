@@ -1,0 +1,67 @@
+
+> gnn-provenance-viz-frontend@1.0.0 dev
+> next dev
+
+   ▲ Next.js 14.0.4
+   - Local:        http://localhost:3000
+
+ ✓ Ready in 2.3s
+ ○ Compiling / ...
+ ⚠ ./src/components/StatsPanel.tsx
+Attempted import error: 'formatTimestamp' is not exported from '@/types' (imported as 'formatTimestamp').
+
+Import trace for requested module:
+./src/components/StatsPanel.tsx
+./src/app/page.tsx
+
+./src/components/StatsPanel.tsx
+Attempted import error: 'formatTimestamp' is not exported from '@/types' (imported as 'formatTimestamp').
+
+Import trace for requested module:
+./src/components/StatsPanel.tsx
+./src/app/page.tsx
+
+./src/components/StatsPanel.tsx
+Attempted import error: 'formatTimestamp' is not exported from '@/types' (imported as 'formatTimestamp').
+
+Import trace for requested module:
+./src/components/StatsPanel.tsx
+./src/app/page.tsx
+
+./src/components/StatsPanel.tsx
+Attempted import error: 'formatTimestamp' is not exported from '@/types' (imported as 'formatTimestamp').
+
+Import trace for requested module:
+./src/components/StatsPanel.tsx
+./src/app/page.tsx
+ ⚠ ./src/components/StatsPanel.tsx
+Attempted import error: 'formatTimestamp' is not exported from '@/types' (imported as 'formatTimestamp').
+
+Import trace for requested module:
+./src/components/StatsPanel.tsx
+./src/app/page.tsx
+
+./src/components/StatsPanel.tsx
+Attempted import error: 'formatTimestamp' is not exported from '@/types' (imported as 'formatTimestamp').
+
+Import trace for requested module:
+./src/components/StatsPanel.tsx
+./src/app/page.tsx
+
+./src/components/StatsPanel.tsx
+Attempted import error: 'formatTimestamp' is not exported from '@/types' (imported as 'formatTimestamp').
+
+Import trace for requested module:
+./src/components/StatsPanel.tsx
+./src/app/page.tsx
+
+./src/components/StatsPanel.tsx
+Attempted import error: 'formatTimestamp' is not exported from '@/types' (imported as 'formatTimestamp').
+
+Import trace for requested module:
+./src/components/StatsPanel.tsx
+./src/app/page.tsx
+(node:40452) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ ✓ Compiled / in 200ms (1084 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
